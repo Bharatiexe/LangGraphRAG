@@ -1,0 +1,20 @@
+Python is a high-level programming language.
+
+Python was created by Guido van Rossum and first released in 1991.
+
+Key features of Python:
+- Easy to read and write
+- Interpreted language  
+- Object-oriented programming
+- Large standard library
+- Cross-platform
+
+Python is used for:
+- Web development with Django and Flask
+- Data science with pandas and numpy
+- Machine learning with scikit-learn and TensorFlow
+- Automation and scripting
+- Desktop applications
+
+Python's philosophy emphasizes code readability and simplicity.
+The language uses indentation to define code blocks instead of curly braces.
